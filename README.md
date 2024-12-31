@@ -1,0 +1,2 @@
+# Integer Overflow Bug in C
+This repository demonstrates a simple integer overflow bug in C and its solution.  The bug occurs when trying to assign a value to an integer that exceeds its maximum representable value. This can lead to unexpected behavior, including program crashes or incorrect results. The solution showcases how to prevent this error by using appropriate data types or checking for potential overflows. 
